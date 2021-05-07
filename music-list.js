@@ -287,9 +287,57 @@ let allMusic=[
     img:"defult",
     src:"music-32",
     
+},
+{
+
+    name:"Sooraj Dooba Hain",
+    artist: "Arijit Singh & Aditi",
+    img:"defult",
+    src:"music-30",
+    
+},
+{
+
+    name:"Agar Tu Hota",
+    artist: "Ankit Tiwari",
+    img:"defult",
+    src:"music-33",
+    
+},
+{
+
+    name:"Tum mera ho",
+    artist: "Jubin Natarial",
+    img:"defult",
+    src:"music-45",
+    
+},
+
+{
+
+    name:"lets Talk About Love",
+    artist: "Rafter & Neha Kakkar",
+    img:"defult",
+    src:"music-35",
+    
+},
+
+{
+
+    name:"Bol Do na Zara",
+    artist: "Arman Mallick",
+    img:"defult",
+    src:"music-36",
+    
+},
+{
+
+    name:"Sanu Ek Pal",
+    artist: "Jubin Nautiyal",
+    img:"defult",
+    src:"music-44",
+    
 }
-
-
 
 
 
